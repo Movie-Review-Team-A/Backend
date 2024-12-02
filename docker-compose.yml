@@ -19,7 +19,7 @@ services:
 
   app:
     build:
-      context: ../Desktop/Movie-Review
+      context: .
       dockerfile: Dockerfile
     restart: on-failure
     container_name: spring

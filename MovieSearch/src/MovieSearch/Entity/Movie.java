@@ -1,4 +1,4 @@
-package __TecheerPartners_teamA.MovieSearch.Entity;
+package MovieSearch.Entity;
 
 import jakarta.persistence.*;
 

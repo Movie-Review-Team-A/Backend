@@ -1,4 +1,4 @@
-package __TecheerPartners_teamA.MovieSearch.dto;
+package MovieSearch.dto;
 
 public class MovieReqeuestDto {
 

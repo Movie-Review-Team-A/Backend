@@ -1,4 +1,4 @@
-package __TecheerPartners_teamA.MovieSearch;
+package MovieSearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

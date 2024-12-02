@@ -1,8 +1,8 @@
-package __TecheerPartners_teamA.MovieSearch.service;
+package MovieSearch.service;
 
-import __TecheerPartners_teamA.MovieSearch.Entity.Movie;
-import __TecheerPartners_teamA.MovieSearch.dto.MovieReqeuestDto;
-import __TecheerPartners_teamA.MovieSearch.repository.MovieRepository;
+import MovieSearch.Entity.Movie;
+import MovieSearch.dto.MovieReqeuestDto;
+import MovieSearch.repository.MovieRepository;
 import org.springframework.stereotype.Service;
 
 @Service

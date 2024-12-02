@@ -1,7 +1,7 @@
-package __TecheerPartners_teamA.MovieSearch.controller;
+package MovieSearch.controller;
 
-import __TecheerPartners_teamA.MovieSearch.dto.MovieReqeuestDto;
-import __TecheerPartners_teamA.MovieSearch.service.MovieSearchService;
+import MovieSearch.dto.MovieReqeuestDto;
+import MovieSearch.service.MovieSearchService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
